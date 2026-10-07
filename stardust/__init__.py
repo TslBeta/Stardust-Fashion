@@ -1,0 +1,1 @@
+"""Stardust Fashion application package."""
